@@ -1,2 +1,2 @@
 # hello-world
-This is deepak14mr; a novice web developer.
+This is deepak14mr; an experienced Java developer exploring python.
